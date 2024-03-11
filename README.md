@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Hi there, I'm Ashok 👋
+#### Hi there, I'm Giridharan 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiridharanS1729&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
