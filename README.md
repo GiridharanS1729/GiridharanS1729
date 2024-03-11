@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 
 #### Hi there, I'm Giridharan S 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiridharanS1729&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiridharanS1729&hide=kotlin)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiridharanS1729&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiridharanS1729&hide=kotlin&layout=compact)
+<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GiridharanS1729&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=GiridharanS1729&count_private=true&showicons=true)]()
