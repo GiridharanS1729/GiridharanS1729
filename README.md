@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=GiridharanS1729&count_private=true&showicons=true)]()
 
 
-[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GiridharanS1729&layout=compact)]<!--(https://github.com/anuraghazra/github-readme-stats)-->
+![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GiridharanS1729&layout=compact)]<!--(https://github.com/anuraghazra/github-readme-stats)-->
