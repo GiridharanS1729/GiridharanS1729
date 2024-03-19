@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GiridharanS1729&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=GiridharanS1729&count_private=true&showicons=true&include_all_commits=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=GiridharanS1729&count_private=true&showicons=true)]()
 
-[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GiridharanS1729\&layout=compact)
+
+[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GiridharanS1729&layout=compact)]<!--(https://github.com/anuraghazra/github-readme-stats)-->
