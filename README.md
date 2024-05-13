@@ -1,16 +1,79 @@
-### Hi there 👋
 
-<!--
-**GiridharanS1729/GiridharanS1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75311&random=false&width=435&lines=Hello+There+,I'm+Giridharan+S)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<!-- ![](https://komarev.com/ghpvc/?username=GiridharanS1729&color=red) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Giridharan S profile views](https://u8views.com/api/v1/github/profiles/117799506/views/day-week-month-total-count.svg)](https://u8views.com/github/GiridharanS1729)
+
+- 🔭 Focusing on FullStack (Frontend + Backend + Database).😎
+- 🌱 Trying to become an expert in Fullstack development ❤
+- 💻 I love exploring new tech stacks and building cool stuff.
+- 📰 Reading tech documentation whenever possible.
+- 🥅 2024 Goals: Learn Backend.
+- ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
+
+---
+
+### Connect With Me:
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giridharans1729/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_unique.1729)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GiridharanS1729)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giridharans1729@gmail.com)
+
+---
+
+### Languages and Tools:
+
+![C](https://img.shields.io/badge/C-00C7B7?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/java-E34F26?style=flat-square&logo=java&logoColor=black)
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-E34F26?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-00C7B7?style=flat-square&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00C7B7?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
+![Figma](https://img.shields.io/badge/Figma-f7f7f7?style=flastic&logo=Figma&logoColor=F24E1E)
+![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
+![Pycharm](https://img.shields.io/badge/Pycharm-005C84?style=flastic&logo=pycharm&logoColor=007ACC)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2C2B30?style=flastic&logo=git&logoColor=007ACC)
+
+---
+
+### My Github Stats:
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GiridharanS1729&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Giridharan's GitHub status" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GiridharanS1729&theme=algolia" alt="GiridharanS1729" />
+</p>
+
+---
+
+### Top Usage Languages:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiridharanS1729&layout=compact&theme=algolia&hide_border=true&&langs_count=20" />
+
+---
+
+### StarDev Ranking
+
+<a href="https://stardev.io/developers/GiridharanS1729"><img alt="Check out GiridharanS1729's profile on stardev.io" src="https://stardev.io/developers/GiridharanS1729/badge/languages/locality.svg" /></a>
+
+---
+
+### Top Repositories
+
+<a href="https://github.com/GiridharanS1729/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiridharanS1729&repo=Portfolio&theme=algolia" />
+</a>
+<a href="https://github.com/GiridharanS1729/Express-Postgres-blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiridharanS1729&repo=Bmi_Calc &theme=algolia" />
+</a>
