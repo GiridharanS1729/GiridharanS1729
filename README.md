@@ -48,7 +48,7 @@
 
 # 📊 GitHub Stats:
 
-![]([https://github-readme-stats.vercel.app/api?username=GiridharanS1729&theme=highcontrast&hide_border=false&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=GiridharanS1729&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true))<br/>
+![](https://github-readme-stats.vercel.app/api?username=GiridharanS1729&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GiridharanS1729&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GiridharanS1729&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
