@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75311&random=false&width=435&lines=Hello+There+,I'm+Giridharan+S)](https://git.io/typing-svg)
 
 <!-- ![](https://komarev.com/ghpvc/?username=GiridharanS1729&color=red) -->
-
+# 💫 About Me:
 [![Giridharan S profile views](https://u8views.com/api/v1/github/profiles/117799506/views/day-week-month-total-count.svg)](https://u8views.com/github/GiridharanS1729)
 
 - 🔭 Focusing on FullStack (Frontend + Backend + Database).😎
@@ -14,7 +14,7 @@
 
 ---
 
-### Connect With Me:
+### 🌐 Connect With Me:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giridharans1729/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_unique.1729)
@@ -23,7 +23,7 @@
 
 ---
 
-### Languages and Tools:
+# 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/C-00C7B7?style=flat-square&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/java-E34F26?style=flat-square&logo=java&logoColor=black)
@@ -46,7 +46,7 @@
 
 ---
 
-### My Github Stats:
+# 📊 GitHub Stats:
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GiridharanS1729&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Giridharan's GitHub status" />
@@ -63,7 +63,7 @@
 
 ---
 
-### StarDev Ranking
+### 🌟 StarDev Ranking
 
 <a href="https://stardev.io/developers/GiridharanS1729"><img alt="Check out GiridharanS1729's profile on stardev.io" src="https://stardev.io/developers/GiridharanS1729/badge/languages/locality.svg" /></a>
 
@@ -75,7 +75,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=GiridharanS1729&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GiridharanS1729&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Top Repositories
 
