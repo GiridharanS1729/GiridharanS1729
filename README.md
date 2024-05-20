@@ -1,6 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75311&random=false&width=435&lines=Hello+There+,I'm+Giridharan+S)](https://git.io/typing-svg)
-
+![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <!-- ![](https://komarev.com/ghpvc/?username=GiridharanS1729&color=red) -->
 # 💫 About Me:
 [![Giridharan S profile views](https://u8views.com/api/v1/github/profiles/117799506/views/day-week-month-total-count.svg)](https://u8views.com/github/GiridharanS1729)
@@ -32,17 +32,19 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E34F26?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-00C7B7?style=flat-square&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-00C7B7?style=flat-square&logo=typescript&logoColor=white)
+![ReactJs](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![AngularJs](https://img.shields.io/badge/Angular.js-0081CB?style=flat-square&logo=react&logoColor=DA61FB)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=sql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00C7B7?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
 ![Figma](https://img.shields.io/badge/Figma-f7f7f7?style=flastic&logo=Figma&logoColor=F24E1E)
 ![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
 ![Pycharm](https://img.shields.io/badge/Pycharm-005C84?style=flastic&logo=pycharm&logoColor=007ACC)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-2C2B30?style=flastic&logo=git&logoColor=007ACC)
+![GitHub](https://img.shields.io/badge/GitHub-2C2B30?style=flastic&logo=github&logoColor=F07ACC)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ---
 
