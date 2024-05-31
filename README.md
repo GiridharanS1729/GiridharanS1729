@@ -68,14 +68,14 @@
 <img alt="Check out GiridharanS1729's profile on stardev.io" width="500" src="https://stardev.io/developers/GiridharanS1729/badge/languages/locality.svg" />
 <img alt="Check out GiridharanS1729's profile on stardev.io" width="500" src="https://stardev.io/developers/GiridharanS1729/badge/languages/country.svg" />
 </a>
-(https://giris-flutter.netlify.app/)
+Portfolio by flutter - (https://giris-flutter.netlify.app/)
 
 ---
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GiridharanS1729&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=GiridharanS1729&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GiridharanS1729&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=GiridharanS1729&limit=7&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
