@@ -81,8 +81,5 @@ Portfolio by flutter - (https://giris-flutter.netlify.app/)
 ### Top Repositories
 
 <a href="https://github.com/GiridharanS1729/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiridharanS1729&repo=Portfolio&theme=algolia" />
-</a>
-<a href="https://github.com/GiridharanS1729/Express-Postgres-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiridharanS1729&repo=Bmi_Calc &theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiridharanS1729&repo=flutter-portfolio&theme=algolia" />
 </a>
