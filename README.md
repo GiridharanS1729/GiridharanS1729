@@ -1,9 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75311&random=false&width=435&lines=Hello+There+,I'm+Giridharan+S)](https://git.io/typing-svg)
+[![Giridharan S profile views](https://u8views.com/api/v1/github/profiles/117799506/views/day-week-month-total-count.svg)](https://u8views.com/github/GiridharanS1729)
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <!-- ![](https://komarev.com/ghpvc/?username=GiridharanS1729&color=red) -->
 # 💫 About Me:
-[![Giridharan S profile views](https://u8views.com/api/v1/github/profiles/117799506/views/day-week-month-total-count.svg)](https://u8views.com/github/GiridharanS1729)
 
 - 🔭 Focusing on FullStack (Frontend + Backend + Database).😎
 - 🌱 Trying to become an expert in Fullstack development ❤
@@ -11,7 +11,7 @@
 - 📰 Reading tech documentation whenever possible.
 - 🥅 2024 Goals: Learn a Framework.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
-
+- 📫 Reach out to me via email: **SoftEng.Aliijaz@gmail.com**
 ---
 
 ### 🌐 Connect With Me:
@@ -88,4 +88,8 @@
 
 <a href="https://github.com/GiridharanS1729/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiridharanS1729&repo=flutter-portfolio&theme=algolia" />
+</a>
+
+<a href="https://github.com/GiridharanS1729/Bmi_Calc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiridharanS1729&repo=Bmi_Calc&theme=algolia" />
 </a>
