@@ -11,7 +11,7 @@
 - 📰 Reading tech documentation whenever possible.
 - 🥅 2024 Goals: Learn a Framework.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
-- 📫 Reach out to me via email: **SoftEng.Aliijaz@gmail.com**
+- 📫 Reach out to me via email: **giridharans1729@gmail.com**
 ---
 
 ### 🌐 Connect With Me:
