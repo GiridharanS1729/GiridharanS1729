@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75311&random=false&width=435&lines=Hello+There+,I'm+Giridharan+S)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75311&random=false&width=435&lines=Hello,+I'm+Giridharan+S)](https://git.io/typing-svg)
 [![Giridharan S profile views](https://u8views.com/api/v1/github/profiles/117799506/views/day-week-month-total-count.svg)](https://u8views.com/github/GiridharanS1729)
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <!-- ![](https://komarev.com/ghpvc/?username=GiridharanS1729&color=red) -->
