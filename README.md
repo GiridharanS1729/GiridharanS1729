@@ -73,7 +73,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=GiridharanS1729&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GiridharanS1729&limit=4&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=GiridharanS1729&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 ### ✍️ Random Dev Quote
@@ -82,6 +82,7 @@
 ---
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
 ---
 
 ### 🔝 Top Repositories
@@ -90,6 +91,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiridharanS1729&repo=flutter-portfolio&theme=algolia" />
 </a>
 
-<a href="https://github.com/GiridharanS1729/Bmi_Calc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiridharanS1729&repo=Bmi_Calc&theme=algolia" />
+<a href="https://github.com/GiridharanS1729/Visitor_Management_System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiridharanS1729&repo=Visitor_Management_System&theme=algolia" />
 </a>
