@@ -73,7 +73,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=GiridharanS1729&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GiridharanS1729&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=GiridharanS1729&limit=4&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 ### ✍️ Random Dev Quote
