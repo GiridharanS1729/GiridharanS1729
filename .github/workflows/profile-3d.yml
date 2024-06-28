@@ -19,8 +19,8 @@ jobs:
         run: git pull --force origin main
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name GiridharanS1729
+          git config user.email giridharans1729@gmail.com
           git add -A .
           git commit -m "generated"
           git push
