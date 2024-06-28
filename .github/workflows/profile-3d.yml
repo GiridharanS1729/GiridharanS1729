@@ -1,5 +1,5 @@
 name: GitHub-Profile-3D-Contrib-fixed
-
+                
 on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
@@ -11,7 +11,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: gumbobrot/github-profile-3d-contrib@0.7.2
+      - uses:  gumbobrot/github-profile-3d-contrib@0.7.2
         env:
           GITHUB_TOKEN: ${{ secrets.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 }}
           USERNAME: ${{ github.GiridharanS1729 }}
