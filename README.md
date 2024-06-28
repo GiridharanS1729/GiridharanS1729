@@ -1,5 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75311&random=false&width=435&lines=Hello,+I'm+Giridharan+S)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75311&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+developer+from+India)](https://git.io/typing-svg)
+
 [![Giridharan S profile views](https://u8views.com/api/v1/github/profiles/117799506/views/day-week-month-total-count.svg)](https://u8views.com/github/GiridharanS1729)
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <!-- ![](https://komarev.com/ghpvc/?username=GiridharanS1729&color=red) -->
@@ -13,6 +14,10 @@
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 - 📫 Reach out to me via email: **giridharans1729@gmail.com**
 ---
+<p align="center" style='margin: 16px 4px 8px; display: flex; gap: 2rem;'>
+    <img src="https://user-badge.committers.top/india/GiridharanS1729.svg" alt="github top commits rank" />
+    <img src="https://komarev.com/ghpvc/?username=GiridharanS1729&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
+</p>
 
 ### 🌐 Connect With Me:
 
@@ -74,6 +79,13 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GiridharanS1729&limit=4&theme=radical&combine_all_yearly_contributions=true)
+
+<p align="center">
+<a href="https://github.com/GiridharanS1729"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiridharanS1729&theme=dracula" />
+</span></a> </p>
+
+[![Giridharan'S github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GiridharanS1729&bg_color=312b2e&color=54f2cb&line=f218e3&point=38f702&area=true&hide_border=true)](https://github.com/GiridharanS1729/github-readme-activity-graph)
 
 ---
 ### ✍️ Random Dev Quote
