@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gumbobrot/github-profile-3d-contrib@0.7.2
         env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
+          GITHUB_TOKEN: ${{ secrets.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 }}
           USERNAME: ${{ github.repository_owner }}
       - name: Pull latest changes
         run: git pull --force origin main
