@@ -9,10 +9,11 @@
   <a href="mailto:giridharans1729@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   anmolbaranwal119@gmail.com" /></a>
   <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username anmol_baranwal(Anmol#7140)" ></a>
   <a href="https://twitter.com/giridharans1729"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Anmol_Codes" ></a>
+  
+[![Giridharan S profile views](https://u8views.com/api/v1/github/profiles/117799506/views/day-week-month-total-count.svg)](https://u8views.com/github/GiridharanS1729)
 </div>
 <br>
 
-[![Giridharan S profile views](https://u8views.com/api/v1/github/profiles/117799506/views/day-week-month-total-count.svg)](https://u8views.com/github/GiridharanS1729)
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <!-- ![](https://komarev.com/ghpvc/?username=GiridharanS1729&color=red) -->
 
