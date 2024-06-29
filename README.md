@@ -5,10 +5,10 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGiridharanS1729%2FGiridharanS1729%2F&countColor=%23263759" />
   <br><br>
   <a href="https://dev.to/giridharans1729"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username giridharans1729" /></a>
-  <a href="https://www.linkedin.com/in/giridharans1729/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
+  <a href="https://www.linkedin.com/in/giridharans1729/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Giridharan_S" /></a>
   <a href="mailto:giridharans1729@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   anmolbaranwal119@gmail.com" /></a>
-  <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username anmol_baranwal(Anmol#7140)" ></a>
-  <a href="https://twitter.com/giridharans1729"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Anmol_Codes" ></a>
+  <a href="https://leetcode.com/u/GiridharanS1729/"><img src="https://img.shields.io/badge/Leetcode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="profile of LeetCode with username Giridharan_S" ></a>
+  <a href="https://twitter.com/giridharans1729"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Giridharan_S" ></a>
   
 [![Giridharan S profile views](https://u8views.com/api/v1/github/profiles/117799506/views/day-week-month-total-count.svg)](https://u8views.com/github/GiridharanS1729)
 </div>
