@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75311&random=false&width=635&lines=Welcome+to+my+GitHub+Profile;I+am+a+full-stack+developer+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75311&random=false&width=700&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+Full-Stack+Developer+from+India)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGiridharanS1729%2FGiridharanS1729%2F&countColor=%23263759" />
