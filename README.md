@@ -10,7 +10,7 @@
   <a href="https://leetcode.com/u/GiridharanS1729/"><img src="https://img.shields.io/badge/Leetcode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="profile of LeetCode with username Giridharan_S" ></a>
   <a href="https://twitter.com/giridharans1729"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Giridharan_S" ></a><br><br>
 
-[![Giridharan S profile views](https://u8views.com/api/v1/github/profiles/117799506/views/day-week-month-total-count.svg)](https://u8views.com/github/GiridharanS1729)
+
 </div>
 <br>
 
