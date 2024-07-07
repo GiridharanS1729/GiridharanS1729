@@ -28,7 +28,7 @@
 - 📫 Reach out to me via email: **giridharans1729@gmail.com**
 ---
 <p align="center" style='margin: 16px 4px 8px; display: flex; gap: 2rem;'>
-    <img src="https://user-badge.committers.top/india/GiridharanS1729.svg" alt="github top commits rank" />
+    <!--img src="https://user-badge.committers.top/india/GiridharanS1729.svg" alt="github top commits rank" /-->
     <img src="https://komarev.com/ghpvc/?username=GiridharanS1729&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
 </p>
 
