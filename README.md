@@ -111,7 +111,7 @@
 
 ### 🔝 Top Repositories
 
-<a href="https://github.com/GiridharanS1729/Portfolio">
+<a href="https://github.com/GiridharanS1729/flutter-portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiridharanS1729&repo=flutter-portfolio&theme=algolia" />
 </a>
 
