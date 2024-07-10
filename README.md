@@ -91,8 +91,8 @@
 ### 🌟 StarDev Ranking
 
 <a href="https://stardev.io/developers/GiridharanS1729">
-<img alt="Check out GiridharanS1729's profile on stardev.io" width="500" src="https://stardev.io/developers/GiridharanS1729/badge/languages/locality.svg" />
-<img alt="Check out GiridharanS1729's profile on stardev.io" width="500" src="https://stardev.io/developers/GiridharanS1729/badge/languages/country.svg" />
+ <img alt="Check out GiridharanS1729's profile on stardev.io" width="480" src="https://stardev.io/developers/GiridharanS1729/badge/languages/locality.svg" />
+ <img alt="Check out GiridharanS1729's profile on stardev.io" width="480" src="https://stardev.io/developers/GiridharanS1729/badge/languages/country.svg" />
 </a>
 
 ---
