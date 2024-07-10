@@ -3,11 +3,13 @@
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGiridharanS1729%2FGiridharanS1729%2F&countColor=%23263759" />
   <br><br>
-  <a href="https://dev.to/giridharans1729"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username giridharans1729" /></a>
-  <a href="https://www.linkedin.com/in/giridharans1729/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Giridharan_S" /></a>
-  <a href="mailto:giridharans1729@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   anmolbaranwal119@gmail.com" /></a>
-  <a href="https://leetcode.com/u/GiridharanS1729/"><img src="https://img.shields.io/badge/Leetcode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="profile of LeetCode with username Giridharan_S" ></a>
-  <a href="https://twitter.com/giridharans1729"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Giridharan_S" ></a><br><br>
+  <a href="https://dev.to/giridharans1729"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="profile of Dev.to with username giridharans1729" /></a>
+  <a href="https://www.linkedin.com/in/giridharans1729/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="profile of LinkedIn with username Giridharan_S" /></a>
+  <a href="mailto:giridharans1729@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email of Giridharan i.e.   giridharans1729@gmail.com" /></a>
+  <a href="https://leetcode.com/u/GiridharanS1729/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="profile of LeetCode with username Giridharan_S" ></a>
+  <a href="https://twitter.com/giridharans1729"><img src="https://img.shields.io/badge/Twitter-0A0209?style=for-the-badge&logo=x&logoColor=d5d5d5" alt="profile of Twitter with username Giridharan_S" ></a>
+  <a href="https://www.instagram.com/mr_unique.1729"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="profile of Instagram with username GiridharanS" ></a>
+  <br><br>
 
 
 </div>
@@ -26,14 +28,14 @@
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 - 📫 Reach out to me via email: **giridharans1729@gmail.com**
 ---
-
+<!--
 # 🌐 Connect With Me:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giridharans1729/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_unique.1729)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GiridharanS1729)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giridharans1729@gmail.com)
-
+-->
 ---
 # 💻 Tech Stack:
 
