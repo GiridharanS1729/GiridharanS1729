@@ -26,12 +26,8 @@
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 - 📫 Reach out to me via email: **giridharans1729@gmail.com**
 ---
-<p align="center" style='margin: 16px 4px 8px; display: flex; gap: 2rem;'>
-    <!--img src="https://user-badge.committers.top/india/GiridharanS1729.svg" alt="github top commits rank" /-->
-    <img src="https://komarev.com/ghpvc/?username=GiridharanS1729&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
-</p>
 
-### 🌐 Connect With Me:
+# 🌐 Connect With Me:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giridharans1729/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_unique.1729)
@@ -39,41 +35,55 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giridharans1729@gmail.com)
 
 ---
-
 # 💻 Tech Stack:
 
-![C](https://img.shields.io/badge/C-00C7B7?style=flat-square&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/java-E34F26?style=flat-square&logo=java&logoColor=black)
-![Python](https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=python&logoColor=white)
+### Frontend:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E34F26?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-00C7B7?style=flat-square&logo=typescript&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![AngularJs](https://img.shields.io/badge/Angular.js-0081CB?style=flat-square&logo=react&logoColor=DA61FB)
+
+### Backend:
+![C](https://img.shields.io/badge/C-00C7B7?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/java-E34F26?style=flat-square&logo=java&logoColor=black)
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+
+### Database:
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=sql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00C7B7?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
-![Figma](https://img.shields.io/badge/Figma-f7f7f7?style=flastic&logo=Figma&logoColor=F24E1E)
-![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
-![Pycharm](https://img.shields.io/badge/Pycharm-005C84?style=flastic&logo=pycharm&logoColor=007ACC)
+
+### Version Control:
 ![Git](https://img.shields.io/badge/Git-2C2B30?style=flastic&logo=git&logoColor=007ACC)
 ![GitHub](https://img.shields.io/badge/GitHub-2C2B30?style=flastic&logo=github&logoColor=F07ACC)
+
+### Tools:
+![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
+![Pycharm](https://img.shields.io/badge/Pycharm-005C84?style=flastic&logo=pycharm&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/Figma-f7f7f7?style=flastic&logo=Figma&logoColor=F24E1E)
+
+### Technologies:
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=GiridharanS1729&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=GiridharanS1729&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GiridharanS1729&theme=highcontrast&hide_border=false)<br/>
 
 ---
 
 ### 🔝 Top Usage Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GiridharanS1729&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=GiridharanS1729&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
 ---
@@ -86,16 +96,27 @@
 </a>
 
 ---
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GiridharanS1729&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GiridharanS1729&limit=5&theme=radical&combine_all_yearly_contributions=true)
+### 📈 Coding Profiles
+
+<span>
+<!--a href="https://codeforces.com/profile/giridharans1729">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=giridharans1729&theme=github_dark&force_username=true&border_color=404040" alt="Risshab Singla Codeforces Stats"/>
+</a-->
+<a href="https://leetcode.com/u/GiridharanS1729/">
+<img height="316" src="https://leetcard.jacoblin.cool/GiridharanS1729?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/GiridharanS1729/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Risshab Singla Leetcode Stats"/>
+</a>
+</span>
+
+### 🌟 GitHub Contriution Graph
 
 <p align="center">
 <a href="https://github.com/GiridharanS1729"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiridharanS1729&theme=dracula" />
 </span></a> </p>
+
 
 [![Giridharan'S github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GiridharanS1729&bg_color=312b2e&color=54f2cb&line=f218e3&point=38f702&area=true&hide_border=true)](https://github.com/GiridharanS1729/github-readme-activity-graph)
 
