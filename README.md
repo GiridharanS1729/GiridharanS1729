@@ -117,13 +117,13 @@
 
 ### 🌟 GitHub Contriution Graph
 
+
+[![Giridharan'S github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GiridharanS1729&bg_color=312b2e&color=54f2cb&line=f218e3&point=38f702&area=true&hide_border=true)](https://github.com/GiridharanS1729/github-readme-activity-graph)
+
 <p align="center">
 <a href="https://github.com/GiridharanS1729"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiridharanS1729&theme=dracula" />
 </span></a> </p>
-
-
-[![Giridharan'S github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GiridharanS1729&bg_color=312b2e&color=54f2cb&line=f218e3&point=38f702&area=true&hide_border=true)](https://github.com/GiridharanS1729/github-readme-activity-graph)
 
 ---
 ### ✍️ Random Dev Quote
