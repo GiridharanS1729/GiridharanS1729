@@ -27,7 +27,8 @@
 - 🥅 2024 Goals: Learn a Framework.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 - 📫 Reach out to me via email: **giridharans1729@gmail.com**
----
+
+
 <!--
 # 🌐 Connect With Me:
 
@@ -86,8 +87,11 @@
 ---
 
 ### 🔝 Top Usage Languages:
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GiridharanS1729&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
+
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=GiridharanS1729&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
