@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75311&random=false&width=700&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+Full-Stack+Developer+from+India)](https://git.io/typing-svg)
 
 <div align="center">
+  <a href="https://u8views.com/github/GiridharanS1729">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGiridharanS1729%2FGiridharanS1729%2F&countColor=%23263759" />
+  </a>
   <br><br>
   <a href="https://dev.to/giridharans1729"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="profile of Dev.to with username giridharans1729" /></a>
   <a href="https://www.linkedin.com/in/giridharans1729/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="profile of LinkedIn with username Giridharan_S" /></a>
