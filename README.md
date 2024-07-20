@@ -12,8 +12,6 @@
   <a href="https://twitter.com/giridharans1729"><img src="https://img.shields.io/badge/Twitter-0A0209?style=for-the-badge&logo=x&logoColor=d5d5d5" alt="profile of Twitter with username Giridharan_S" ></a>
   <a href="https://www.instagram.com/mr_unique.1729"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="profile of Instagram with username GiridharanS" ></a>
   <br><br>
-
-
 </div>
 <br>
 
