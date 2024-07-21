@@ -84,6 +84,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=GiridharanS1729&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GiridharanS1729&theme=highcontrast&hide_border=false)<br/>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GiridharanS1729&theme=highcontrast)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GiridharanS1729&theme=highcontrast)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GiridharanS1729&theme=highcontrast)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GiridharanS1729&theme=highcontrast&utcOffset=8)
+
+
 ---
 
 ### 🔝 Top Usage Languages:
