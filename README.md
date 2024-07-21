@@ -154,3 +154,10 @@
 <a href="https://github.com/GiridharanS1729/Visitor_Management_System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiridharanS1729&repo=Visitor_Management_System&theme=algolia" />
 </a>
+
+
+<p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+
+</p>
