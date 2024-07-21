@@ -81,7 +81,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=GiridharanS1729&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=GiridharanS1729&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GiridharanS1729&theme=highcontrast&hide_border=false)<br/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GiridharanS1729&theme=highcontrast)
@@ -126,7 +126,6 @@
 </span>
 
 ### 🌟 GitHub Contriution Graph
-
 
 [![Giridharan'S github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GiridharanS1729&bg_color=312b2e&color=54f2cb&line=f218e3&point=38f702&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app/graph?username=GiridharanS1729&bg_color=312b2e&color=54f2cb&line=f218e3&point=38f702&area=true&hide_border=true)
 
