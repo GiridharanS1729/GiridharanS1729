@@ -79,10 +79,11 @@
 ---
 
 <details><br>
-  <summary>:zap: 📊 GitHub Stats</summary>
-  
+  <summary><h1>:zap: 📊 GitHub Stats</h1></summary>
+<!--  
 # 📊 GitHub Stats:
-
+-->
+  
 ![](https://github-readme-stats.vercel.app/api?username=GiridharanS1729&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GiridharanS1729&theme=highcontrast&hide_border=false)<br/>
 
