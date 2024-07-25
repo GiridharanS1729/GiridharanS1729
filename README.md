@@ -78,7 +78,9 @@
 
 ---
 
-
+<details><br>
+  <summary>:zap: 📊 GitHub Stats</summary>
+  
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=GiridharanS1729&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
@@ -143,6 +145,7 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
+</details>
 
 ### 🔝 Top Repositories
 
