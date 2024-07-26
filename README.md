@@ -38,7 +38,11 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giridharans1729@gmail.com)
 -->
 ---
-# 💻 Tech Stack:
+<details><br>
+  <summary><h1>:zap: 💻 Tech Stack</h1></summary>
+<!--
+  # 💻 Tech Stack:
+-->
 
 ### Frontend:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -77,7 +81,7 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
-
+</details>
 <details><br>
   <summary><h1>:zap: 📊 GitHub Stats</h1></summary>
 <!--  
