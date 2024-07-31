@@ -124,14 +124,12 @@
 ### 📈 Coding Profiles
 
 <span>
-<!--a href="https://codeforces.com/profile/giridharans1729">
+<!-- <a href="https://codeforces.com/profile/giridharans1729">
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=giridharans1729&theme=github_dark&force_username=true&border_color=404040" alt=" Giridharan'S Codeforces Stats"/>
-</a-->
+</a> -->
 <a href="https://leetcode.com/u/GiridharanS1729/">
-<img height="316" src="https://leetcard.jacoblin.cool/GiridharanS1729?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/GiridharanS1729/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Risshab Singla Leetcode Stats"/>
-</a>
-  ![Questions solved](https://leetcode-badge-sage.vercel.app/badge/GiridharanS1729?theme={light|dark|neutral})
-</span>
+<img width="500" src="https://leetcard.jacoblin.cool/GiridharanS1729?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/GiridharanS1729/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Giridharan S Leetcode Stats"/>
+</a></span>
 
 ### 🌟 GitHub Contriution Graph
 
