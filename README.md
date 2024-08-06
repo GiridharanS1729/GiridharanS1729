@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75311&random=false&width=700&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+Full-Stack+Developer+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75311&random=false&width=700&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+Full-Stack+Developer+from+TamilNadu)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://u8views.com/github/GiridharanS1729">
