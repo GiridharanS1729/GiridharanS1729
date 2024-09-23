@@ -1,5 +1,6 @@
 ## Hi there 👋
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGiridharanS1729%2FGiridharanS1729%2F&countColor=%23263759" />
+
+![Visits](https://visitor-badge.imlete.cn/?id=GiridharanS1729&label=Views&type=uv&style=for-the-badge&labelColor=black&color=yellow)
 
 - 🔭 I’m currently working on a project using the MERN stack.
 - 🌱 I’m currently learning ReactJs.
