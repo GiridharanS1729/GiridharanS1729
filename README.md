@@ -83,7 +83,7 @@
 ---
 </details>
 <details><br>
-  <summary><h1>:zap: 📊 GitHub Stats</h1></summary>
+  <summary><h1>:zap: 📊 Coding Platform Stats</h1></summary>
 <!--  
 # 📊 GitHub Stats:
 -->
@@ -131,6 +131,8 @@
 <img width="500" src="https://leetcard.jacoblin.cool/GiridharanS1729?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/GiridharanS1729/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Giridharan S Leetcode Stats"/>
 </a></span>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/GiridharanS1729?ext=heatmap)
+  
 ### 🌟 GitHub Contriution Graph
 
 [![Giridharan'S github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GiridharanS1729&bg_color=312b2e&color=54f2cb&line=f218e3&point=38f702&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app/graph?username=GiridharanS1729&bg_color=312b2e&color=54f2cb&line=f218e3&point=38f702&area=true&hide_border=true)
