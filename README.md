@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on innovative web development projects.
 - 🤔 I’m looking for help with optimizing my blog platform for better user experience.
 - 💬 Ask me about full-stack development, Java, or web applications.
-- 📫 How to reach me: giridharans129@gmail.co
+- 📫 How to reach me: giridharans129@gmail.com
 - 😄 Pronouns: He/Him
