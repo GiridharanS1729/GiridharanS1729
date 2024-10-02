@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![Visits](https://visitor-badge.imlete.cn/?id=GiridharanS1729&label=Views&type=uv&style=for-the-badge&labelColor=black&color=yellow)
 
 - 🔭 I’m currently working on a project using the MERN stack.
 - 🌱 I’m currently learning ReactJs.
@@ -9,3 +8,5 @@
 - 💬 Ask me about full-stack development, Java, or web applications.
 - 📫 How to reach me: giridharans129@gmail.com
 - 😄 Pronouns: He/Him
+
+![Visits](https://visitor-badge.imlete.cn/?id=GiridharanS1729&label=Views&type=uv&style=for-the-badge&labelColor=black&color=yellow)
