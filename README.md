@@ -20,7 +20,7 @@
 
 # 💫 About Me:
 
-- 🔭 Focusing on FullStack (Frontend + Backend + Database).😎
+- 🔭 Focusing on Java FullStack Development 😎.
 - 🌱 Trying to become an expert in Fullstack development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
