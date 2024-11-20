@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a project using the MERN stack.
-- 🌱 I’m currently learning MERN.
+- 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on innovative web development projects.
 - 🤔 I’m looking for help with optimizing my blog platform for better user experience.
 - 💬 Ask me about full-stack development, Java, or web applications.
