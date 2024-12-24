@@ -15,17 +15,15 @@
 </div>
 <br>
 
-![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+![MasterHead](./assets/main.gif)
 <!-- ![](https://komarev.com/ghpvc/?username=GiridharanS1729&color=red) -->
-
-# 💫 About Me:
-
+<picture><img src = "./assets/About_Me.gif" width = 30px></picture> <b>About me</b> 
 - 🔭 Focusing on Java FullStack Development 😎.
-- 🌱 Trying to become an expert in Fullstack development ❤
+- 🌱 Trying to become an Software developer ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2024 Goals: Learn a Framework.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
+- 🥅 2025 Goals: Expert in Java SpringBoot.
+- ⚡ Fun fact: Equal is Not Always Equal in Javascript🤣.
 - 📫 Reach out to me via email: **giridharans1729@gmail.com**
 
 
