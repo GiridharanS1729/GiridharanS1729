@@ -152,6 +152,8 @@
 ---
 </details>
 
+<img src="https://raw.githubusercontent.com/GiridharanS1729/GiridharanS1729/output/snake.svg" alt="Snake animation" />
+
 ### 🔝 Top Repositories
 
 <a href="https://github.com/GiridharanS1729/flutter-portfolio">
